@@ -1,5 +1,17 @@
 # @serverless-stack/docs
 
+## 1.4.2
+
+### Patch Changes
+
+- [#1940](https://github.com/serverless-stack/sst/pull/1940) [`91d28a7d3`](https://github.com/serverless-stack/sst/commit/91d28a7d37e1a9c960c18ee419c19bf4d59da050) Thanks [@fwang](https://github.com/fwang)! - Api: support Lambda container routes
+
+## 1.4.1
+
+### Patch Changes
+
+- [#1932](https://github.com/serverless-stack/sst/pull/1932) [`bad52a000`](https://github.com/serverless-stack/sst/commit/bad52a000fe0a0aee135ef8207fa726a564a54de) Thanks [@fwang](https://github.com/fwang)! - StaticSite: support importing existing S3 bucket
+
 ## 1.4.0
 
 ### Minor Changes

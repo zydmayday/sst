@@ -1,5 +1,36 @@
 # @serverless-stack/resources
 
+## 1.6.10
+
+### Patch Changes
+
+- [#1940](https://github.com/serverless-stack/sst/pull/1940) [`91d28a7d3`](https://github.com/serverless-stack/sst/commit/91d28a7d37e1a9c960c18ee419c19bf4d59da050) Thanks [@fwang](https://github.com/fwang)! - Api: support Lambda container routes
+
+- Updated dependencies []:
+  - @serverless-stack/core@1.6.10
+
+## 1.6.9
+
+### Patch Changes
+
+- [#1938](https://github.com/serverless-stack/sst/pull/1938) [`e2436df7b`](https://github.com/serverless-stack/sst/commit/e2436df7b54677317e754d0ea0532eb4c2431b15) Thanks [@fwang](https://github.com/fwang)! - Function: lift logRetention to top level prop
+
+* [#1936](https://github.com/serverless-stack/sst/pull/1936) [`59dd4c023`](https://github.com/serverless-stack/sst/commit/59dd4c023c5ead3c99784542925267d54715d853) Thanks [@fwang](https://github.com/fwang)! - RemixSite: expose server function to allow using with the Api construct
+
+- [#1939](https://github.com/serverless-stack/sst/pull/1939) [`bd321f3c4`](https://github.com/serverless-stack/sst/commit/bd321f3c447e34d351d74fe4452f04560d274016) Thanks [@fwang](https://github.com/fwang)! - Stack: use root.account instead of CDK_DEFAULT_ACCOUNT environment variable
+
+- Updated dependencies []:
+  - @serverless-stack/core@1.6.9
+
+## 1.6.8
+
+### Patch Changes
+
+- [#1932](https://github.com/serverless-stack/sst/pull/1932) [`bad52a000`](https://github.com/serverless-stack/sst/commit/bad52a000fe0a0aee135ef8207fa726a564a54de) Thanks [@fwang](https://github.com/fwang)! - StaticSite: support importing existing S3 bucket
+
+- Updated dependencies []:
+  - @serverless-stack/core@1.6.8
+
 ## 1.6.7
 
 ### Patch Changes
